@@ -8,5 +8,6 @@ public class Ejemplo {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Prueba en GitHub");
+		System.out.println("Subida a la rama main");
 	}
 }
